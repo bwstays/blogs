@@ -2,6 +2,9 @@ title: "bwstays blog pages"
 author: "bwstays"
 description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
+baseurl: "/blogs" # the subpath of your site, e.g. /blog
+url: "https://www.bwstays.com" # the base hostname & protocol for your site, e.g. http://example.com
+
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "bwstays@gmail.com"
