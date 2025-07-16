@@ -3,7 +3,7 @@ author: "Black and White Stays "
 description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 name: Black and White Stays 
-baseurl: "/blogs" # the subpath of your site, e.g. /blog
+baseurl: "/blogs/_posts" # the subpath of your site, e.g. /blog
 url: "https://www.bwstays.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Email / Social media user names used by the minima theme:
